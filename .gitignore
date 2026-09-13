@@ -7,3 +7,6 @@ data/
 *.pt
 *.pth
 *.ckpt
+
+.venv/
+venv/
